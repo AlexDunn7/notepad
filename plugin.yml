@@ -1,0 +1,10 @@
+name: Notepad
+version: 1.2
+main: me.flame.notepad.Notepad
+api-version: 1.13
+description: Allows players to make notes in-game
+commands:
+    notepad:
+        description: Main command for notepad
+        aliases: [notes]
+        
